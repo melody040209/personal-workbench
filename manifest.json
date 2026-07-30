@@ -1,0 +1,21 @@
+{
+  "name": "个人专属AI工作台",
+  "short_name": "AI工作台",
+  "description": "招商银行武汉分行个人学习工作管理平台",
+  "start_url": "./personal-workbench.html",
+  "display": "standalone",
+  "background_color": "#f8f5f0",
+  "theme_color": "#8aab8c",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192'%3E%3Crect width='192' height='192' rx='40' fill='%238aab8c'/%3E%3Ctext x='96' y='120' font-size='100' text-anchor='middle' fill='white' font-family='sans-serif'%3EX%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='512' height='512'%3E%3Crect width='512' height='512' rx='100' fill='%238aab8c'/%3E%3Ctext x='256' y='320' font-size='280' text-anchor='middle' fill='white' font-family='sans-serif'%3EX%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
